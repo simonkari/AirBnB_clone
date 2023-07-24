@@ -3,6 +3,7 @@
  */
 
 /* Places flexbox */
+
 .places {
   display: flex;
   flex-flow: row wrap;
@@ -11,6 +12,7 @@
 }
 
 /* Article style */
+
 .places article {
   border: 1px solid #ff5a5f;
   border-radius: 4px;
@@ -20,6 +22,7 @@
 }
 
 /* Name and price header */
+
 .places .name_and_price {
   align-items: center;
   display: flex;
@@ -29,6 +32,7 @@
 }
 
 /* Price by night circle */
+
 .places .price_by_night {
   align-items: center;
   border: 4px solid #ff5a5f;
@@ -42,6 +46,7 @@
 }
 
 /* Guests, rooms, and bathrooms information */
+
 .places .information {
   align-items: center;
   border-top: 1px solid #ddd;
@@ -54,6 +59,7 @@
 }
 
 /* Width of each guest/room/bathroom sticker */
+
 .places .max_guest,
 .places .number_rooms,
 .places .number_bathrooms{
@@ -61,23 +67,27 @@
 }
 
 /* Padding around owner */
+
 .places .user {
   margin: 20px auto 20px auto;
 }
 
 /* Top margin of amenities and reviews classes */
+
 .places .amenities,
 .places .reviews {
   margin-top: 40px;
 }
 
 /* Row format for amenities list */
+
 .places .amenities li {
   display: flex;
   flex-direction: row;
 }
 
 /* Individual amenity style */
+
 .places .amenities i {
   display: flex;
   flex-direction: column;
@@ -89,6 +99,7 @@
 }
 
 /* Align amenity text with icon */
+
 .places .amenities p {
   margin-top: 20px;
 }
@@ -98,6 +109,7 @@
  */
 
 /* Header 1 style */
+
 .places h1 {
   font-size: 30px;
   font-weight: bold;
@@ -106,6 +118,7 @@
 }
 
 /* Header 2 style */
+
 .places h2 {
   font-size: 30px;
   font-weight: bold;
@@ -117,6 +130,7 @@
 }
 
 /* Amenities and reviews header 2 style */
+
 .places .amenities h2,
 .places .reviews h2 {
   border-bottom: 1px solid #ddd;
@@ -127,6 +141,7 @@
 }
 
 /* Reviews header 3 style */
+
 .places .reviews h3 {
   font-size: 14px;
   font-weight: bold;

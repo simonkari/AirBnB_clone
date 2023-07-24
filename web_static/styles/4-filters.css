@@ -3,6 +3,7 @@
  */
 
 /* Filters style */
+
 .filters {
   background-color: #fff;
   border: 1px solid #ddd;
@@ -12,6 +13,7 @@
 }
 
 /* Search button style */
+
 .filters button {
   background: #ff5a5f;
   border: none;
@@ -25,6 +27,7 @@
 }
 
 /* Search button hover opacity */
+
 .filters button:hover {
   background-color: rgba(255, 90, 95, .9);
 }

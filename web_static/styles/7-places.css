@@ -3,6 +3,7 @@
  */
 
 /* Places style */
+
 .places article {
   border: 1px solid #ff5a5f;
   border-radius: 4px;
@@ -17,6 +18,7 @@
  */
 
 /* Header 1 style */
+
 .places h1 {
   font-size: 30px;
   font-weight: bold;
@@ -25,6 +27,7 @@
 }
 
 /* Header 2 style */
+
 .places h2 {
   font-size: 30px;
   font-weight: bold;

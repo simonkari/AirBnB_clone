@@ -98,6 +98,7 @@
  */
 
 /* Header 1 style */
+
 .places h1 {
   font-size: 30px;
   font-weight: bold;
@@ -113,6 +114,7 @@
 }
 
 /* Header 2 style */
+
 .places h2 {
   font-size: 30px;
   font-weight: bold;
@@ -124,6 +126,7 @@
 }
 
 /* Amenities and reviews header 2 style */
+
 .places .amenities h2,
 .places .reviews h2 {
   border-bottom: 1px solid #ddd;
@@ -134,6 +137,7 @@
 }
 
 /* Reviews header 3 style */
+
 .places .reviews h3 {
   font-size: 14px;
   font-weight: bold;
